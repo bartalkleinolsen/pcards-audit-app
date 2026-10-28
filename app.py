@@ -22,7 +22,7 @@ st.set_page_config(page_title="OSU P-Card | Audit Workspace", page_icon="📊",
 
 st.markdown("""
 <style>
-  .block-container { padding-top: 2.2rem; padding-bottom: 3rem; max-width: 1330px; }
+  .block-container { padding-top: 5rem; padding-bottom: 3rem; max-width: 1330px; }
   h1,h2,h3 { letter-spacing: -.035em; }
   div[data-testid="stMetric"] { background: #f7f9fc; border: 1px solid #e5ebf3;
     padding: 16px 19px; border-radius: 14px; }
